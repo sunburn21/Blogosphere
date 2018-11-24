@@ -13,6 +13,7 @@ var express     = require("express"),
     seedDB      = require("./seeds"),
     methodOverride = require("method-override");
 // configure dotenv
+
 require('dotenv').config({ path: 'variables.env' });
 
 
