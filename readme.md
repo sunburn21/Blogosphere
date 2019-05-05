@@ -1,3 +1,3 @@
-# YelpCamp
+# Blogging site
 
-### Refactored by Ian Schoonover
+### Developed by: Manan Gautam
