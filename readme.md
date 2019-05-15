@@ -1,3 +1,3 @@
 # Blogging site
 
-### Developed by: Manan Gautam
+### Developed by: Sunny Singh
